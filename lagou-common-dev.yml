@@ -22,6 +22,6 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl  #避免将驼峰命名转换为下划线命名
 
 ip-filter:
-  filter-window-minutes: 1
+  window-minutes: 1
   max-request-times: 100
 
