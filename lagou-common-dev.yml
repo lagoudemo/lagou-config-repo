@@ -16,3 +16,6 @@ spring:
     username: root
     password: 872406066
 
+ip-filter:
+  window-minutes: 1
+  max-request-times: 100
