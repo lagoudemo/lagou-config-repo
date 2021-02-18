@@ -13,8 +13,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
-    username: root
-    password: 872406066
+    username: lagoudemo
+    password: lagoudemo2021
 
 ip-filter:
   window-minutes: 1
